@@ -121,7 +121,18 @@ body {
   padding: 1em;
   border-radius: 8px;
 }
+.projects-section {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+}
+.projects-title {
+  font-size: 80px;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
 
+}
 .reflection h3 {
   margin-top: 0;
   color: #aaaaff;
